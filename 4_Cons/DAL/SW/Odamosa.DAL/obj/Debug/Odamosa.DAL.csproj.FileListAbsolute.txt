@@ -1,0 +1,5 @@
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\DAL\SW\Odamosa.DAL\bin\Debug\Odamosa.DAL.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\DAL\SW\Odamosa.DAL\bin\Debug\Odamosa.DAL.pdb
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\DAL\SW\Odamosa.DAL\obj\Debug\Odamosa.DAL.csprojResolveAssemblyReference.cache
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\DAL\SW\Odamosa.DAL\obj\Debug\Odamosa.DAL.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\DAL\SW\Odamosa.DAL\obj\Debug\Odamosa.DAL.pdb

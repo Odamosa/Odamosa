@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.pdb
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\Odamosa.UI.csprojResolveAssemblyReference.cache
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.dll
+C:\Proyectos\Odamosa\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.pdb
+=======
+D:\Usuario\Documents\GitHub\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.dll
+D:\Usuario\Documents\GitHub\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\bin\OdamosaWeb.pdb
+D:\Usuario\Documents\GitHub\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\Odamosa.UI.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\GitHub\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.dll
+D:\Usuario\Documents\GitHub\TallerIntegral\4_Cons\UI\Web\OdamosaWeb\obj\Debug\OdamosaWeb.pdb
+>>>>>>> login y vista medico cliente
